@@ -20,13 +20,11 @@
 ```java
                     借助github上隐藏的服务器搭建网站（域名要花钱）技术可以联系320175912@qq.com
 ```
-<div align=center>
-<img border="1" border-color="#345678" alt="图1" src="https://github.com/jsonhui/images/blob/master/r1.png"/>
-</div><br>
+[![jason]](http://my.csdn.net/jason_fish)
+[jason]:https://github.com/jsonhui/images/blob/master/r1.png "320175912@qq.com" <br>
 ###<div class="text" align=center>图片1</div><br>
-<div align=center>
-<img border=1 alt="图2" src="https://github.com/jsonhui/images/blob/master/r2.png"/>
-</div><br>
+[![jason]](http://my.csdn.net/jason_fish)
+[jason]:https://github.com/jsonhui/images/blob/master/l2.png "320175912@qq.com" <br>
 ###<div class="text" align=center>图片2</div><br>
 ###<div class="text" align=center>做好的网站在下面（买了半年的域名）</div><br>
 ###<div align=center>[github服务器上托管的一个网站](http://www.ruifengcanyin.com)</div><br>
