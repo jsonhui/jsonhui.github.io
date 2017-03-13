@@ -30,5 +30,5 @@
 ###<div class="text" align=center>-图片2-</div><br>
 ###<div class="text" align=center>-做好的网站在下面（买了半年的域名）-</div><br>
 ###<div align=center>
- [github服务器上托管的一个网站-域名www.ruifengcanyin.com](http://www.ruifengcanyin.com)
+ [github服务器上托管的一个网站](http://www.ruifengcanyin.com)
 </div><br>
