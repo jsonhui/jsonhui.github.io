@@ -21,7 +21,7 @@
                     借助github上隐藏的服务器搭建网站（域名要花钱）技术可以联系320175912@qq.com
 ```
 <div align=center>
-<image border-style:solid; border-width:1px; border-color:#000 alt="图1" src="https://github.com/jsonhui/images/blob/master/r1.png"/>
+<img border=1 alt="图1" src="https://github.com/jsonhui/images/blob/master/r1.png"/>
 </div>
 ###<div class="text" align=center>-图片1-</div><br>
 <div align=center>
