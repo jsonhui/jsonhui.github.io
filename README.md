@@ -25,7 +25,7 @@
 </div>
 ###<div class="text" align=center>-图片1-</div><br>
 <div align=center>
-<image border-style:solid; border-width:1px; border-color:#000 alt="图2" src="https://github.com/jsonhui/images/blob/master/r2.png"/>
+<img border=1 alt="图2" src="https://github.com/jsonhui/images/blob/master/r2.png"/>
 </div>
 ###<div class="text" align=center>-图片2-</div><br>
 ###<div class="text" align=center>-做好的网站在下面（买了半年的域名）-</div><br>
