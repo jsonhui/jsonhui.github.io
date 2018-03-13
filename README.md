@@ -5,17 +5,13 @@
 ```
 ##<div align=center>[Author：Jason](http://my.csdn.net/jason_fish "作者：袁科")</div>
 <div align=center>
-<image border=0 alt="图一" src="https://github.com/jsonhui/images/blob/master/n1.png"></image>
-<image border=0 alt="图一" src="https://github.com/jsonhui/images/blob/master/n1.png"></image>
-<image border=0 alt="图一" src="https://github.com/jsonhui/images/blob/master/n1.png"></image>
-<image border=0 alt="图一" src="https://github.com/jsonhui/images/blob/master/n1.png"></image>
-<image border=0 alt="图一" src="https://github.com/jsonhui/images/blob/master/n1.png"></image>
+<image alt="图一" src="https://github.com/jsonhui/images/blob/master/r1.png"/>
 </div>
+<div class="text" align=center>图片1</div>
 <div align=center>
-<image border-style:solid; border-width:1px; border-color:#000 alt="图1" src="https://github.com/jsonhui/images/blob/master/n1.png"/>
+<image alt="图二" src="https://github.com/jsonhui/images/blob/master/r2.png"/>
 </div>
-###<div class="text" align=center>-图片1-</div><br>
--->
+<div class="text" align=center>图片2</div>
 ##<div class="text" align=center background="#005430">帮朋友做的一个网站</div><br>
 ```java
                     借助github上隐藏的服务器搭建网站（域名要花钱）技术可以联系320175912@qq.com
