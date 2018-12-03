@@ -8,10 +8,6 @@
 
 ### <div class="text" align=center>图片1</div>
 
-![](https://github.com/jsonhui/images/blob/master/r2.png)
-
-### <div class="text" align=center>图片2</div><br>
-
 #### <div class="text" align=center>做好的网站在下面（买了半年的域名）</div><br>
 
 #### <div align=center>[github服务器上托管的一个网站](http://www.ruifengcanyin.com "瑞丰餐饮")</div><br>
