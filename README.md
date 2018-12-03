@@ -1,4 +1,4 @@
-# <div class="text" align=center background="#005430">帮朋友做的一个网站</div><br>
+# <div class="text" align=center background="#005430">自己做的一个网站</div><br>
 ```java
                     借助github上隐藏的服务器搭建网站（域名要花钱）技术可以联系320175912@qq.com
 ```
